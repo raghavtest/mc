@@ -1,22 +1,12 @@
-[17:56:55] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
-[17:56:55] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
-[17:56:55] [Server thread/INFO]: /ban <name> [reason ...]
-[17:56:55] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
-[17:56:55] [Server thread/INFO]: /banlist [ips|players]
-[17:56:55] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
-[17:56:55] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
-[17:56:55] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
-[17:56:55] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
-[17:56:59] [Server thread/INFO]: There are 0/20 players online:
-[17:56:59] [Server thread/INFO]: 
-[17:57:03] [Server thread/INFO]: Stopping the server
-[17:57:03] [Server thread/INFO]: Stopping server
-[17:57:03] [Server thread/INFO]: Saving players
-[17:57:03] [Server thread/INFO]: Saving worlds
-[17:57:03] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[17:57:03] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[17:57:03] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[17:57:03] [Server Shutdown Thread/INFO]: Stopping server
-[17:57:03] [Server Shutdown Thread/INFO]: Saving players
-[17:57:03] [Server Shutdown Thread/INFO]: Saving worlds
-[17:57:03] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[16:24:15] [Server thread/INFO]: raghav998[/157.50.106.54:60486] logged in with entity id 232 at (-139.2703464650021, 60.0, 267.2035873326692)
+[16:24:15] [Server thread/INFO]: raghav998 joined the game
+[16:24:46] [Server thread/INFO]: raghav998 lost connection: Disconnected
+[16:24:46] [Server thread/INFO]: raghav998 left the game
+[16:24:56] [Server thread/INFO]: raghav998[/157.50.106.54:60498] logged in with entity id 519 at (-139.2703464650021, 60.0, 267.2035873326692)
+[16:24:56] [Server thread/INFO]: raghav998 joined the game
+[16:25:26] [Server thread/INFO]: raghav998 lost connection: Disconnected
+[16:25:26] [Server thread/INFO]: raghav998 left the game
+[16:25:35] [Server thread/INFO]: raghav998[/157.50.106.54:60502] logged in with entity id 840 at (-139.2703464650021, 60.0, 267.2035873326692)
+[16:25:35] [Server thread/INFO]: raghav998 joined the game
+[16:26:05] [Server thread/INFO]: raghav998 lost connection: Timed out
+[16:26:05] [Server thread/INFO]: raghav998 left the game
